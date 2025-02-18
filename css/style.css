@@ -408,6 +408,7 @@ background: rgba(0, 0, 0, 0.7);
     background-color: #3D9FFF;
     color: var(--white-color);
     padding: 20px;
+	  margin-bottom:0;
 }
 
 .footer-nav-list {
