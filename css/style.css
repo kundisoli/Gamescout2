@@ -12,6 +12,7 @@
      --yellow:#e3cf1c;
      --green: #28a745;
 --pink: #ff007f;
+--active-color:#3841c7;
     --body-font: 'Open Sans', sans-serif;
     --nav-name-font-size: 1.5rem;
     --normal-font-size: .938rem;
@@ -1230,7 +1231,7 @@ ul {
     .nav-item { margin: 0 1.5rem; padding: 1.4rem 0; }
     .nav-link { color: var(--dark-color); }
         .nav-link:hover { color: var(--first-color); }
-    .active { color: var(--first-color); }
+    .active { color: var(--active-color); }
 
     .dropdown { position: relative; }
     .dropdown-menu { position: fixed; margin: 0; top: calc(var(--header-height) + 1rem); padding: 0.5rem 1.5rem; box-shadow: 0 2px 4px rgba(0, 0, 0, .1); border-radius: .5rem; }
