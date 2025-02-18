@@ -112,6 +112,7 @@ a { text-decoration: none; }
 .welcome-par{
     top: 200px;
     line-height: 1.6;
+	font-size:1.2rem;
    
 }
 .welcome-header, .welcome-par{
