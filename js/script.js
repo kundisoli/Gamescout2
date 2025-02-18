@@ -14,7 +14,7 @@ const showMenu = (toggleId, navId) => {
 
 showMenu('header-toggle', 'nav-menu');
 
-// Changing Active Link
+
 
 const navLink = document.querySelectorAll('.nav-link');
 function linkAction(){
